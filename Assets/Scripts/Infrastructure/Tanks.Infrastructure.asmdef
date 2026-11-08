@@ -1,0 +1,28 @@
+{
+    "name": "Tanks.Infrastructure",
+    "rootNamespace": "Infrastructure",
+    "references": [
+        "Tanks.CameraControl",
+        "Tanks.Config",
+        "Tanks.Effects",
+        "Tanks.GameFlow",
+        "Tanks.GameInput",
+        "Tanks.GamePause",
+        "Tanks.GameSaving",
+        "Tanks.GameUI",
+        "Tanks.MapGeneration",
+        "Tanks.Projectile",
+        "Tanks.TankControl",
+        "Tanks.TankSpawning",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tanks.GameUI",
+    "rootNamespace": "GameUI",
+    "references": [
+        "Tanks.Config",
+        "Tanks.GameFlow",
+        "Tanks.GameInput",
+        "Tanks.GamePause",
+        "Tanks.GameSaving",
+        "UniTask",
+        "UnityEngine.UI",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

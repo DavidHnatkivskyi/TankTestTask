@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21cdbcc317f63ec40b102d51916bad98, type: 3}
+  m_Name: TankSpawningConfig
+  m_EditorClassIdentifier: Assembly-CSharp::TankSpawning.TankSpawningConfig
+  tankSpawnData:
+  - saveId: player-default
+    prefab: {fileID: 4673315477861254001, guid: 42ffa74f54a3b5f469196958719230b9, type: 3}
+    controlType: 0
+    spawnChance: 100
+    tankConfig: {fileID: 11400000, guid: 6f067dc1b471435a92bc1cbe7c676eb5, type: 2}
+    projectileSet: {fileID: 11400000, guid: f1e0d76d8b5f4244abd9486a0c623fe2, type: 2}
+    computerBehavior: 0
+  - saveId: computer-random-patrol
+    prefab: {fileID: 4673315477861254001, guid: d2417b2f996d4f4f9c4edb0a1b5de3e7, type: 3}
+    controlType: 1
+    spawnChance: 100
+    tankConfig: {fileID: 11400000, guid: 9830db5f92894b5aa63142bd1bd48814, type: 2}
+    projectileSet: {fileID: 11400000, guid: f1e0d76d8b5f4244abd9486a0c623fe2, type: 2}
+    computerBehavior: 0
+  - saveId: computer-chase-and-orbit
+    prefab: {fileID: 4673315477861254001, guid: d2417b2f996d4f4f9c4edb0a1b5de3e7, type: 3}
+    controlType: 1
+    spawnChance: 100
+    tankConfig: {fileID: 11400000, guid: 510d09e608cc4b4ca4832e281fb3d7f5, type: 2}
+    projectileSet: {fileID: 11400000, guid: f1e0d76d8b5f4244abd9486a0c623fe2, type: 2}
+    computerBehavior: 1
+  initialComputerTankBehaviors:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  computerRespawnDelay: 2
+  computerPatrolRadius: 8
+  navMeshPointSearchAttempts: 16
+  computerOrbitMinimumRadius: 2
+  computerOrbitMaximumRadius: 4
+  computerOrbitPointCount: 12
+  computerOrbitPointArrivalDistance: 2
+  computerFireMinimumDistance: 4
+  computerFireMaximumDistance: 6

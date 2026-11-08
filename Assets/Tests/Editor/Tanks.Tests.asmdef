@@ -1,0 +1,32 @@
+{
+    "name": "Tanks.Tests",
+    "rootNamespace": "Tanks.Tests",
+    "references": [
+        "Tanks.CameraControl",
+        "Tanks.Config",
+        "Tanks.GameFlow",
+        "Tanks.GameInput",
+        "Tanks.GamePause",
+        "Tanks.GameSaving",
+        "Tanks.MapGeneration",
+        "Tanks.Projectile",
+        "Tanks.Tank",
+        "Tanks.TankControl",
+        "Tanks.TankSpawning",
+        "Zenject"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

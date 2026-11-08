@@ -1,0 +1,19 @@
+{
+    "name": "Tanks.TankControl",
+    "rootNamespace": "TankControl",
+    "references": [
+        "Tanks.GameInput",
+        "Tanks.MapGeneration",
+        "Tanks.Tank",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c380901eba9d06f419d19ab01d18b27e, type: 3}
+  m_Name: TankChassisConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Config.TankChassisConfig
+  <ReverseSpeed>k__BackingField: 2
+  <DecelerationDuration>k__BackingField: 0.15
+  <TurnRadius>k__BackingField: 3
+  <TurnSpeed>k__BackingField: 180

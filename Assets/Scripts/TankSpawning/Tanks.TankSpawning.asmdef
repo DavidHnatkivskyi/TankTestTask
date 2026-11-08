@@ -1,0 +1,26 @@
+{
+    "name": "Tanks.TankSpawning",
+    "rootNamespace": "TankSpawning",
+    "references": [
+        "Tanks.CameraControl",
+        "Tanks.Config",
+        "Tanks.Effects",
+        "Tanks.GameFlow",
+        "Tanks.GameSaving",
+        "Tanks.MapGeneration",
+        "Tanks.Projectile",
+        "Tanks.Tank",
+        "Tanks.TankControl",
+        "UniTask",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Tanks.CameraControl",
+    "rootNamespace": "CameraControl",
+    "references": [
+        "Tanks.Config",
+        "Tanks.GameInput",
+        "Tanks.GameSaving",
+        "Tanks.GameUI",
+        "Tanks.MapGeneration",
+        "Tanks.Tank",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
