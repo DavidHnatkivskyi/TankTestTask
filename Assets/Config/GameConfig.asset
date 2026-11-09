@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5f6071849a2b3c4d5e6f708192a3b4c, type: 3}
   m_Name: GameConfig
   m_EditorClassIdentifier: Assembly-CSharp::Config.GameConfig
-  topDownOffset: {x: 0, y: 6.25, z: 0}
+  topDownOffset: {x: 0, y: 9.375, z: 0}
   thirdPersonOffset: {x: 0, y: 1, z: -2}
   cameraMovementTime: 1
   forceMobileHud: 0

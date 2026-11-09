@@ -67,8 +67,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u041F\u0410\u0423\u0417\u0410"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 702e16c01e55dc240a6199e7c3c14525, type: 2}
-  m_sharedMaterial: {fileID: -6081029014232879536, guid: 702e16c01e55dc240a6199e7c3c14525, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 78b86f6a089370a4db75d58f8161dcf9, type: 2}
+  m_sharedMaterial: {fileID: -5114508974173490525, guid: 78b86f6a089370a4db75d58f8161dcf9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -411,8 +411,8 @@ MonoBehaviour:
 
     camera view'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 702e16c01e55dc240a6199e7c3c14525, type: 2}
-  m_sharedMaterial: {fileID: -6081029014232879536, guid: 702e16c01e55dc240a6199e7c3c14525, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 78b86f6a089370a4db75d58f8161dcf9, type: 2}
+  m_sharedMaterial: {fileID: -5114508974173490525, guid: 78b86f6a089370a4db75d58f8161dcf9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -669,8 +669,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u041A\u0410\u041C\u0415\u0420\u0410"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 702e16c01e55dc240a6199e7c3c14525, type: 2}
-  m_sharedMaterial: {fileID: -6081029014232879536, guid: 702e16c01e55dc240a6199e7c3c14525, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 78b86f6a089370a4db75d58f8161dcf9, type: 2}
+  m_sharedMaterial: {fileID: -5114508974173490525, guid: 78b86f6a089370a4db75d58f8161dcf9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
